@@ -1,0 +1,56 @@
+{
+ "updated": "2026-09-13T12:00:00Z",
+ "count": 5,
+ "jobs": [
+  {
+   "key": "a",
+   "company": "Evercore",
+   "title": "Off-Cycle Analyst, M&A",
+   "location": "London",
+   "url": "#",
+   "category": "off-cycle",
+   "posted": "2026-09-11",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "key": "b",
+   "company": "J.P. Morgan",
+   "title": "2027 Graduate Analyst Programme, Global Markets",
+   "location": "London",
+   "url": "#",
+   "category": "graduate",
+   "posted": "2026-09-02",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "key": "c",
+   "company": "Citadel",
+   "title": "Off-Cycle Intern, Equity Research",
+   "location": "London",
+   "url": "#",
+   "category": "off-cycle",
+   "posted": "2026-09-13",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "key": "d",
+   "company": "Barclays",
+   "title": "Industrial Placement, Credit Risk",
+   "location": "Glasgow",
+   "url": "#",
+   "category": "placement",
+   "posted": "2026-08-20",
+   "first_seen": "2026-08-20"
+  },
+  {
+   "key": "e",
+   "company": "Jane Street",
+   "title": "Summer Analyst 2027",
+   "location": "London",
+   "url": "#",
+   "category": "summer",
+   "posted": "2026-07-01",
+   "first_seen": "2026-07-01"
+  }
+ ]
+}
