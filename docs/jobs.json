@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-15T12:14:07Z",
- "count": 90,
+ "updated": "2026-09-15T18:12:06Z",
+ "count": 93,
  "jobs": [
   {
    "key": "b89157fc1a6e0314",
@@ -9,6 +9,36 @@
    "location": "Johannesburg  South Africa",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Johannesburg--South-Africa/South-Africa-Learnership-Graduate-Program---Market--South-Africa---Johannesburg--2026_26993885",
    "category": "graduate",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "key": "36d6ef87ff6f0f8b",
+   "company": "Citi",
+   "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Bogot\u00e1 \u2013 Colombia, 2027",
+   "location": "Bogota  Colombia",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Banking---Corporate-Banking--Full-Time-Analyst--Bogot---Colombia--2027_26993307",
+   "category": "graduate",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "key": "d48ebda64fdf8ab4",
+   "company": "Citi",
+   "title": "Banking, Corporate Banking, Placement Analyst, Stockholm - Sweden, 2027",
+   "location": "Stockholm  Sweden",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking--Corporate-Banking-Analyst--Stockholm---Sweden--2027_26994922",
+   "category": "placement",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "key": "2eb9d50d3555f2ec",
+   "company": "Citi",
+   "title": "Banking, Investment Banking, Placement Analyst, Amsterdam \u2013 Netherlands 2027",
+   "location": "Amsterdam  Netherlands",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Investment-Banking--Placement-Analyst--Amsterdam---Netherlands-2027_26993945",
+   "category": "placement",
    "posted": "2026-09-15",
    "first_seen": "2026-09-15"
   },
@@ -523,16 +553,6 @@
    "first_seen": "2026-09-14"
   },
   {
-   "key": "49a0f1ca8aedcae0",
-   "company": "Citi",
-   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
-   "category": "summer",
-   "posted": "2026-09-02",
-   "first_seen": "2026-09-14"
-  },
-  {
    "key": "dcd0bceb66889c18",
    "company": "Citi",
    "title": "Fresh Graduate - Finance, Economics, Mathematics, Accounting, Business Administration, Commerce",
@@ -870,6 +890,16 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Milan-Milano-Italy/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst--Milan--Italy-2026---October-Intake_26975851",
    "category": "placement",
    "posted": "2026-09-11",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "key": "49a0f1ca8aedcae0",
+   "company": "Citi",
+   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
+   "category": "summer",
+   "posted": "2026-09-02",
    "first_seen": "2026-09-14"
   },
   {
