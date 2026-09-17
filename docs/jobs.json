@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-17T12:14:33Z",
+ "updated": "2026-09-17T18:13:42Z",
  "count": 97,
  "jobs": [
+  {
+   "key": "a2a0f0f511b4534e",
+   "company": "Man Group",
+   "title": "2027 Summer Technology Internship Programme",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
+   "category": "off-cycle",
+   "posted": "2026-09-17",
+   "first_seen": "2026-09-17"
+  },
   {
    "key": "1a7bb48aeebd4199",
    "company": "Deutsche Bank",
@@ -243,21 +253,21 @@
    "first_seen": "2026-09-14"
   },
   {
-   "key": "eff10e9e730af3f0",
-   "company": "Point72",
-   "title": "Cubist Quantitative Researcher Intern",
-   "location": "Singapore",
-   "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-   "category": "off-cycle",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
    "key": "69480dcf5584d645",
    "company": "Point72",
    "title": "Cubist Quantitative Researcher Intern",
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+   "category": "off-cycle",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "key": "eff10e9e730af3f0",
+   "company": "Point72",
+   "title": "Cubist Quantitative Researcher Intern",
+   "location": "Singapore",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
    "category": "off-cycle",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
@@ -379,16 +389,6 @@
    "location": "Chicago, Florida, New York, San Francisco",
    "url": "https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002",
    "category": "graduate",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "key": "231220b69b766ac2",
-   "company": "Point72",
-   "title": "Quantitative Developer Intern",
-   "location": "New York",
-   "url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
-   "category": "off-cycle",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
   },
