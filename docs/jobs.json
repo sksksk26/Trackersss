@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-22T12:14:07Z",
- "count": 97,
+ "updated": "2026-09-22T18:14:04Z",
+ "count": 100,
  "jobs": [
+  {
+   "key": "19ef22c418dbca86",
+   "company": "Point72",
+   "title": "2027 Investment Services Internship",
+   "location": "New York, New York, United States, Stamford, Connecticut, United States",
+   "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
+   "category": "summer",
+   "posted": "2026-09-22",
+   "first_seen": "2026-09-22"
+  },
   {
    "key": "f12671470d2750cb",
    "company": "Man Group",
@@ -13,12 +23,52 @@
    "first_seen": "2026-09-22"
   },
   {
+   "key": "960d8c5f1dfee4a2",
+   "company": "Citi",
+   "title": "Banking \u2013 Investment Banking, Full-Time Analyst, Mexico City - Mexico, 2027",
+   "location": "THE SUMMIT - CIUDAD DE MEXICO",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Investment-Banking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992614",
+   "category": "graduate",
+   "posted": "2026-09-22",
+   "first_seen": "2026-09-22"
+  },
+  {
    "key": "8ddbe75d8a48d7f2",
    "company": "Citi",
    "title": "Banking, Commercial Banking, Full Time Analyst, Madrid - Spain 2027",
    "location": "Madrid  Spain",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Banking--Commercial-Banking--Full-Time-Analyst--Madrid---Spain-2027_26993672",
    "category": "graduate",
+   "posted": "2026-09-22",
+   "first_seen": "2026-09-22"
+  },
+  {
+   "key": "f0d3812a8275cf1c",
+   "company": "Citi",
+   "title": "Banking, Commercial Banking, Full Time Analyst, London - United Kingdom 2027",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Full-Time-Analyst--London---United-Kingdom-2027_26993628",
+   "category": "graduate",
+   "posted": "2026-09-22",
+   "first_seen": "2026-09-22"
+  },
+  {
+   "key": "5f00858157971e34",
+   "company": "Citi",
+   "title": "Banking, Corporate Banking, Placement Analyst, Stockholm - Sweden, 2027 - March Start",
+   "location": "Stockholm  Sweden",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking--Corporate-Banking-Analyst--Stockholm---Sweden--2027_26994922",
+   "category": "placement",
+   "posted": "2026-09-22",
+   "first_seen": "2026-09-22"
+  },
+  {
+   "key": "c99b3214c3164194",
+   "company": "Citi",
+   "title": "Banking, Corporate Banking, Placement Analyst, Amsterdam - The Netherlands, 2027 (January- June Start)",
+   "location": "Amsterdam  Netherlands",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Corporate-Banking--Placement-Analyst--Amsterdam---The-Netherlands--2027--January--June-Start-_26994569",
+   "category": "placement",
    "posted": "2026-09-22",
    "first_seen": "2026-09-22"
   },
@@ -133,16 +183,6 @@
    "first_seen": "2026-09-21"
   },
   {
-   "key": "fcd70652aa5d49a6",
-   "company": "Point72",
-   "title": "2027 Investment Services Internship - PIPELINE",
-   "location": "New York, New York, United States, Stamford, Connecticut, United States",
-   "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
-   "category": "summer",
-   "posted": "2026-09-18",
-   "first_seen": "2026-09-19"
-  },
-  {
    "key": "62c9d3dab777c967",
    "company": "Citi",
    "title": "Internship - Corporate Banking, Intern, Gabon - Libreville 2026",
@@ -198,16 +238,6 @@
    "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
    "location": "Getzville New York United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
-   "category": "summer",
-   "posted": "2026-09-02",
-   "first_seen": "2026-09-19"
-  },
-  {
-   "key": "49a0f1ca8aedcae0",
-   "company": "Citi",
-   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
    "category": "summer",
    "posted": "2026-09-02",
    "first_seen": "2026-09-19"
@@ -443,16 +473,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "key": "d48ebda64fdf8ab4",
-   "company": "Citi",
-   "title": "Banking, Corporate Banking, Placement Analyst, Stockholm - Sweden, 2027",
-   "location": "Stockholm  Sweden",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Stockholm--Sweden/Banking--Corporate-Banking-Analyst--Stockholm---Sweden--2027_26994922",
-   "category": "placement",
-   "posted": "2026-09-16",
-   "first_seen": "2026-09-19"
-  },
-  {
    "key": "2eb9d50d3555f2ec",
    "company": "Citi",
    "title": "Banking, Investment Banking, Placement Analyst, Amsterdam \u2013 Netherlands 2027",
@@ -613,6 +633,16 @@
    "first_seen": "2026-09-19"
   },
   {
+   "key": "49a0f1ca8aedcae0",
+   "company": "Citi",
+   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
+   "category": "summer",
+   "posted": "2026-09-02",
+   "first_seen": "2026-09-19"
+  },
+  {
    "key": "e11072b2872a88d1",
    "company": "Citi",
    "title": "Functions - Risk Management, Summer Analyst, Tampa - USA, 2027",
@@ -753,21 +783,21 @@
    "first_seen": "2026-09-14"
   },
   {
-   "key": "69480dcf5584d645",
-   "company": "Point72",
-   "title": "Cubist Quantitative Researcher Intern",
-   "location": "Hong Kong",
-   "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-   "category": "off-cycle",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
    "key": "eff10e9e730af3f0",
    "company": "Point72",
    "title": "Cubist Quantitative Researcher Intern",
    "location": "Singapore",
    "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+   "category": "off-cycle",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "key": "69480dcf5584d645",
+   "company": "Point72",
+   "title": "Cubist Quantitative Researcher Intern",
+   "location": "Hong Kong",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
    "category": "off-cycle",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
