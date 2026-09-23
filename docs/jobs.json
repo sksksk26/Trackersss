@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-23T12:14:27Z",
- "count": 98,
+ "updated": "2026-09-23T18:14:01Z",
+ "count": 99,
  "jobs": [
+  {
+   "key": "c001677fa8933631",
+   "company": "Man Group",
+   "title": "Technology Summer Internship",
+   "location": "Sofia",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101",
+   "category": "summer",
+   "posted": "2026-09-23",
+   "first_seen": "2026-09-23"
+  },
   {
    "key": "ccfd0d18f4235861",
    "company": "Citi",
@@ -9,6 +19,16 @@
    "location": "Budapest  Hungary",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Finance--Full-Time-Analyst--Budapest---Hungary--2027----Applicable-for-2026-Citi-Summer-interns-only-_26995716",
    "category": "graduate",
+   "posted": "2026-09-23",
+   "first_seen": "2026-09-23"
+  },
+  {
+   "key": "2068f3e85f9a90d5",
+   "company": "Citi",
+   "title": "Banking, Corporate Banking, Placement Analyst, Helsinki - Finland, 2027 - March Start",
+   "location": "Finland",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Finland/Banking--Corporate-Banking--Placement-Analyst--Helsinki---Finland--2027---March-Start_26994916",
+   "category": "placement",
    "posted": "2026-09-23",
    "first_seen": "2026-09-23"
   },
@@ -43,16 +63,6 @@
    "first_seen": "2026-09-22"
   },
   {
-   "key": "8ddbe75d8a48d7f2",
-   "company": "Citi",
-   "title": "Banking, Commercial Banking, Full Time Analyst, Madrid - Spain 2027",
-   "location": "Madrid  Spain",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Banking--Commercial-Banking--Full-Time-Analyst--Madrid---Spain-2027_26993672",
-   "category": "graduate",
-   "posted": null,
-   "first_seen": "2026-09-22"
-  },
-  {
    "key": "f0d3812a8275cf1c",
    "company": "Citi",
    "title": "Banking, Commercial Banking, Full Time Analyst, London - United Kingdom 2027",
@@ -60,6 +70,16 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Full-Time-Analyst--London---United-Kingdom-2027_26993628",
    "category": "graduate",
    "posted": null,
+   "first_seen": "2026-09-22"
+  },
+  {
+   "key": "8ddbe75d8a48d7f2",
+   "company": "Citi",
+   "title": "Banking, Commercial Banking, Full Time Analyst, Madrid - Spain 2027",
+   "location": "Madrid  Spain",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Banking--Commercial-Banking--Full-Time-Analyst--Madrid---Spain-2027_26993672",
+   "category": "graduate",
+   "posted": "2026-09-23",
    "first_seen": "2026-09-22"
   },
   {
@@ -79,7 +99,7 @@
    "location": "Amsterdam  Netherlands",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Corporate-Banking--Placement-Analyst--Amsterdam---The-Netherlands--2027--January--June-Start-_26994569",
    "category": "placement",
-   "posted": null,
+   "posted": "2026-09-23",
    "first_seen": "2026-09-22"
   },
   {
@@ -783,21 +803,21 @@
    "first_seen": "2026-09-14"
   },
   {
-   "key": "eff10e9e730af3f0",
-   "company": "Point72",
-   "title": "Cubist Quantitative Researcher Intern",
-   "location": "Singapore",
-   "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-   "category": "off-cycle",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
    "key": "69480dcf5584d645",
    "company": "Point72",
    "title": "Cubist Quantitative Researcher Intern",
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
+   "category": "off-cycle",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "key": "eff10e9e730af3f0",
+   "company": "Point72",
+   "title": "Cubist Quantitative Researcher Intern",
+   "location": "Singapore",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
    "category": "off-cycle",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
@@ -888,16 +908,6 @@
    "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 \u2013 JP) (BCF)",
    "location": "Japan",
    "url": "https://boards.greenhouse.io/point72/jobs/8729765002?gh_jid=8729765002",
-   "category": "graduate",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "key": "91bc5a02de83a813",
-   "company": "Point72",
-   "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 \u2013 US)",
-   "location": "Chicago, Florida, New York, San Francisco",
-   "url": "https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002",
    "category": "graduate",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
