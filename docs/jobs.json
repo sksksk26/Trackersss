@@ -1,7 +1,17 @@
 {
- "updated": "2026-09-24T12:14:10Z",
- "count": 98,
+ "updated": "2026-09-24T18:13:27Z",
+ "count": 99,
  "jobs": [
+  {
+   "key": "4cf9c89f215d9f27",
+   "company": "Citi",
+   "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+   "location": "Madrid  Spain",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+   "category": "placement",
+   "posted": "2026-09-24",
+   "first_seen": "2026-09-24"
+  },
   {
    "key": "c001677fa8933631",
    "company": "Man Group",
@@ -69,7 +79,7 @@
    "location": "London  United Kingdom",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Full-Time-Analyst--London---United-Kingdom-2027_26993628",
    "category": "graduate",
-   "posted": "2026-09-22",
+   "posted": "2026-09-24",
    "first_seen": "2026-09-22"
   },
   {
@@ -260,16 +270,6 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Commercial-Banking--Summer-Analyst--Houston---US--2027_25926681",
    "category": "summer",
    "posted": "2026-08-25",
-   "first_seen": "2026-09-19"
-  },
-  {
-   "key": "558b9f32b8f60a9f",
-   "company": "Citi",
-   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
-   "location": "Getzville New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
-   "category": "summer",
-   "posted": "2026-09-02",
    "first_seen": "2026-09-19"
   },
   {
@@ -643,6 +643,16 @@
    "first_seen": "2026-09-19"
   },
   {
+   "key": "558b9f32b8f60a9f",
+   "company": "Citi",
+   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
+   "location": "Getzville New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
+   "category": "summer",
+   "posted": "2026-09-02",
+   "first_seen": "2026-09-19"
+  },
+  {
    "key": "49a0f1ca8aedcae0",
    "company": "Citi",
    "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
@@ -793,21 +803,21 @@
    "first_seen": "2026-09-14"
   },
   {
-   "key": "69480dcf5584d645",
-   "company": "Point72",
-   "title": "Cubist Quantitative Researcher Intern",
-   "location": "Hong Kong",
-   "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-   "category": "off-cycle",
-   "posted": "2026-09-15",
-   "first_seen": "2026-09-14"
-  },
-  {
    "key": "eff10e9e730af3f0",
    "company": "Point72",
    "title": "Cubist Quantitative Researcher Intern",
    "location": "Singapore",
    "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
+   "category": "off-cycle",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "key": "69480dcf5584d645",
+   "company": "Point72",
+   "title": "Cubist Quantitative Researcher Intern",
+   "location": "Hong Kong",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
    "category": "off-cycle",
    "posted": "2026-09-15",
    "first_seen": "2026-09-14"
