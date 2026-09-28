@@ -1,7 +1,27 @@
 {
- "updated": "2026-09-28T12:14:55Z",
- "count": 96,
+ "updated": "2026-09-28T18:13:58Z",
+ "count": 98,
  "jobs": [
+  {
+   "key": "b5fbdfe1727de625",
+   "company": "Man Group",
+   "title": "Investment Risk 2027 Summer Internship",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101",
+   "category": "summer",
+   "posted": "2026-09-28",
+   "first_seen": "2026-09-28"
+  },
+  {
+   "key": "d914d6edcafcc632",
+   "company": "Man Group",
+   "title": "Trading Summer 2027 Internship",
+   "location": "London",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
+   "category": "off-cycle",
+   "posted": "2026-09-28",
+   "first_seen": "2026-09-28"
+  },
   {
    "key": "1bbf8db174f8c99e",
    "company": "Deutsche Bank",
@@ -13,9 +33,9 @@
    "first_seen": "2026-09-28"
   },
   {
-   "key": "a57b5295ce9caf1d",
+   "key": "cc4d817c3df6ed39",
    "company": "Deutsche Bank",
-   "title": "Structured Trade Export Finance Paris Intern (f/m/x)",
+   "title": "Export Finance Paris Intern (f/m/x)",
    "location": "Paris",
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Paris/Structured-Trade-Export-Finance-Paris-Intern--f-m-x-_R0452722",
    "category": "off-cycle",
