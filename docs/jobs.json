@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-29T12:15:13Z",
- "count": 97,
+ "updated": "2026-09-29T18:14:41Z",
+ "count": 99,
  "jobs": [
   {
    "key": "bf05042c9f98d1c6",
@@ -13,13 +13,33 @@
    "first_seen": "2026-09-29"
   },
   {
-   "key": "ce53a456ed61c098",
+   "key": "ce0c70bae29599ea",
    "company": "Citi",
-   "title": "Markets \u2013 Sales and Trading, Internship, S\u00e3o Paulo - Brazil, 2026",
-   "location": "Sao Paulo Sao Paulo Brazil",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26986138",
+   "title": "Banking \u2013 Corporate Baking, Internship, Bogot\u00e1 \u2013 Colombia, 2027",
+   "location": "Bogota  Colombia",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Banking---Corporate-Baking--Internship--Bogot---Colombia--2027_26993300",
    "category": "off-cycle",
-   "posted": "2026-08-30",
+   "posted": "2026-09-15",
+   "first_seen": "2026-09-29"
+  },
+  {
+   "key": "bc9e89dcf82a6096",
+   "company": "Citi",
+   "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Paris - France 2027",
+   "location": "Paris  France",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Banking--Corporate-Banking--Relationship-Analyst--Placement-Analyst-Internship--Paris---France-2027_26992471",
+   "category": "placement",
+   "posted": "2026-09-29",
+   "first_seen": "2026-09-29"
+  },
+  {
+   "key": "465e3373de739dee",
+   "company": "Citi",
+   "title": "Functions - Finance, Summer Associate, New York - USA, 2027",
+   "location": "New York New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Finance--Summer-Associate--New-York---USA--2027_26997257",
+   "category": "summer",
+   "posted": "2026-09-29",
    "first_seen": "2026-09-29"
   },
   {
