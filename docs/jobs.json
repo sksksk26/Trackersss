@@ -1,15 +1,25 @@
 {
- "updated": "2026-10-01T12:16:10Z",
- "count": 102,
+ "updated": "2026-10-01T18:15:56Z",
+ "count": 100,
  "jobs": [
   {
-   "key": "29d6fe665b6720b4",
+   "key": "f0d3812a8275cf1c",
    "company": "Citi",
-   "title": "Operations -Markets Operations Fulltime Analyst , Boston Career Forum in 2026, Tokyo - Japan, 2027",
-   "location": "Chiyoda-ku Tokyo Japan",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Operations--Markets-Operations-Fulltime-Analyst---Boston-Career-Forum-in-2026--Tokyo---Japan--2027_26980865",
+   "title": "Banking, Commercial Banking, Full Time Analyst, London - United Kingdom 2027",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Full-Time-Analyst--London---United-Kingdom-2027_26993628",
    "category": "graduate",
-   "posted": "2026-09-01",
+   "posted": "2026-10-01",
+   "first_seen": "2026-10-01"
+  },
+  {
+   "key": "d3460d77279442ef",
+   "company": "Citi",
+   "title": "Banking, Investment Banking, Placement Analyst, Zurich, Switzerland 2027 - January Intake",
+   "location": "Zurich  Switzerland",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Zurich--Switzerland/Banking--Investment-Banking--Placement-Analyst--Zurich--Switzerland-2027---January-Intake_26997502",
+   "category": "placement",
+   "posted": "2026-10-01",
    "first_seen": "2026-10-01"
   },
   {
@@ -43,16 +53,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "key": "8b818c9108ea85e5",
-   "company": "Citi",
-   "title": "Corporate Banking - Summer Internship Program, Tokyo - Japan, 2027",
-   "location": "Chiyoda-ku Tokyo Japan",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Corporate-Banking---Summer-Internship-Program--Tokyo---Japan--2027_26982664",
-   "category": "summer",
-   "posted": "2026-09-01",
-   "first_seen": "2026-09-30"
-  },
-  {
    "key": "bf05042c9f98d1c6",
    "company": "Man Group",
    "title": "Global Funds Treasury Summer 2027 Internship",
@@ -79,16 +79,6 @@
    "location": "Paris  France",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Banking--Corporate-Banking--Relationship-Analyst--Placement-Analyst-Internship--Paris---France-2027_26992471",
    "category": "placement",
-   "posted": "2026-09-29",
-   "first_seen": "2026-09-29"
-  },
-  {
-   "key": "465e3373de739dee",
-   "company": "Citi",
-   "title": "Functions - Finance, Summer Associate, New York - USA, 2027",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Finance--Summer-Associate--New-York---USA--2027_26997257",
-   "category": "summer",
    "posted": "2026-09-29",
    "first_seen": "2026-09-29"
   },
@@ -180,16 +170,6 @@
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Shanghai-Two-IFC/CB---Global-Markets--Corporate-Sales-Local-Intern_R0444896",
    "category": "off-cycle",
    "posted": "2026-09-01",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "key": "f7dc18a5eb85d531",
-   "company": "Deutsche Bank",
-   "title": "Global Emergent Markets (GEM) FIC Sales - Intern",
-   "location": "Sao Paulo Edificio Pedro Mariz",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Emergent-Markets--GEM--FIC-Sales---Intern_R0450198",
-   "category": "off-cycle",
-   "posted": "2026-09-14",
    "first_seen": "2026-09-26"
   },
   {
