@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-06T12:14:17Z",
- "count": 103,
+ "updated": "2026-10-06T18:12:28Z",
+ "count": 104,
  "jobs": [
+  {
+   "key": "746b38304498b0fb",
+   "company": "Squarepoint",
+   "title": "Graduate Software Developer",
+   "location": "London, Montreal, Singapore, Warsaw",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
+   "category": "graduate",
+   "posted": "2026-10-06",
+   "first_seen": "2026-10-06"
+  },
+  {
+   "key": "01ce2160ba914ef6",
+   "company": "Squarepoint",
+   "title": "Intern Software Developer - Warsaw 2027",
+   "location": "Warsaw",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
+   "category": "off-cycle",
+   "posted": "2026-10-06",
+   "first_seen": "2026-10-06"
+  },
   {
    "key": "b89157fc1a6e0314",
    "company": "Citi",
@@ -768,16 +788,6 @@
    "title": "Graduate Quant Developer",
    "location": "London, Montreal, Singapore",
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
-   "category": "graduate",
-   "posted": "2026-09-09",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "key": "1fb97f5c9e01d812",
-   "company": "Squarepoint",
-   "title": "Graduate Software Developer",
-   "location": "London, Montreal, Singapore",
-   "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
    "category": "graduate",
    "posted": "2026-09-09",
    "first_seen": "2026-09-14"
