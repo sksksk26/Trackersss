@@ -1,7 +1,17 @@
 {
- "updated": "2026-10-08T12:15:58Z",
- "count": 102,
+ "updated": "2026-10-08T18:13:55Z",
+ "count": 103,
  "jobs": [
+  {
+   "key": "511b21705ab09ef5",
+   "company": "Marshall Wace",
+   "title": "2027 Summer Operations Intern",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/marshallwace/jobs/8879188002",
+   "category": "summer",
+   "posted": "2026-10-08",
+   "first_seen": "2026-10-08"
+  },
   {
    "key": "b317357d57a0a22a",
    "company": "Citi",
@@ -147,7 +157,7 @@
    "company": "Deutsche Bank",
    "title": "O&A Benelux Coverage Seasonal Intern (f/m/x)",
    "location": "Amsterdam",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453346",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/O-A-Benelux-Coverage-Seasonal-Intern--f-m-x-_R0453348",
    "category": "off-cycle",
    "posted": "2026-09-30",
    "first_seen": "2026-10-03"
@@ -238,6 +248,16 @@
    "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
    "location": "Getzville New York United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
+   "category": "summer",
+   "posted": "2026-09-08",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "key": "49a0f1ca8aedcae0",
+   "company": "Citi",
+   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
+   "location": "Irving Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
    "category": "summer",
    "posted": "2026-09-08",
    "first_seen": "2026-10-03"
@@ -660,16 +680,6 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Paris--France/Banking--Corporate-Banking--Financial-Institutions-Group--FIG---Placement-Analyst-Internship--Paris---France-2027_26992453",
    "category": "placement",
    "posted": "2026-09-16",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "key": "49a0f1ca8aedcae0",
-   "company": "Citi",
-   "title": "Functions - Risk Management, Summer Analyst, Irving - USA, 2027",
-   "location": "Irving Texas United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971",
-   "category": "summer",
-   "posted": "2026-09-08",
    "first_seen": "2026-10-03"
   },
   {
