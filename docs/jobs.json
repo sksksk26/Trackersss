@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15T10:55:44Z",
- "count": 105,
+ "updated": "2026-10-15T16:23:26Z",
+ "count": 104,
  "jobs": [
   {
    "key": "2b95f0bd02c49072",
@@ -9,7 +9,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
    "category": "summer",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "first_seen": "2026-10-14"
   },
   {
@@ -29,7 +29,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002",
    "category": "summer",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "first_seen": "2026-10-14"
   },
   {
@@ -39,7 +39,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
    "category": "summer",
-   "posted": "2026-10-14",
+   "posted": "2026-10-15",
    "first_seen": "2026-10-14"
   },
   {
@@ -80,16 +80,6 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2026_26988854",
    "category": "off-cycle",
    "posted": null,
-   "first_seen": "2026-10-14"
-  },
-  {
-   "key": "ce6f84b91c175556",
-   "company": "Citi",
-   "title": "Citi Global Wealth, Summer Analyst, Geneva - Switzerland, 2027",
-   "location": "Geneva  Switzerland",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Geneva--Switzerland/Citi-Global-Wealth--Summer-Analyst--Geneva---Switzerland--2027_26994853",
-   "category": "summer",
-   "posted": "2026-09-24",
    "first_seen": "2026-10-14"
   },
   {
@@ -358,16 +348,6 @@
    "title": "Banking - Commercial Banking - Natural Resources & Energy,  Summer Analyst, Houston - US, 2027",
    "location": "Houston Texas United States",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Commercial-Banking--Summer-Analyst--Houston---US--2027_25926681",
-   "category": "summer",
-   "posted": "2026-09-15",
-   "first_seen": "2026-10-10"
-  },
-  {
-   "key": "558b9f32b8f60a9f",
-   "company": "Citi",
-   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
-   "location": "Getzville New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
    "category": "summer",
    "posted": "2026-09-15",
    "first_seen": "2026-10-10"
@@ -750,6 +730,16 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Wealth---LATAM--Full-Time-Analyst--New-York---USA--2027_26986025",
    "category": "graduate",
    "posted": "2026-10-07",
+   "first_seen": "2026-10-10"
+  },
+  {
+   "key": "558b9f32b8f60a9f",
+   "company": "Citi",
+   "title": "Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027",
+   "location": "Getzville New York United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711",
+   "category": "summer",
+   "posted": "2026-09-15",
    "first_seen": "2026-10-10"
   },
   {
