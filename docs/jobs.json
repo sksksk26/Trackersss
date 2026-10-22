@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-22T16:42:01Z",
- "count": 103,
+ "updated": "2026-10-22T21:14:09Z",
+ "count": 104,
  "jobs": [
+  {
+   "key": "90a63e60d677ca87",
+   "company": "Squarepoint",
+   "title": "Trading Infrastructure Specialist \u2013 Graduate Program",
+   "location": "London, Montreal, Hong Kong, New York, Singapore",
+   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
+   "category": "graduate",
+   "posted": "2026-10-22",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "key": "0c0c4e19268fba76",
+   "company": "Man Group",
+   "title": "Systematic Quant Intern",
+   "location": "Boston; Massachusetts",
+   "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+   "category": "off-cycle",
+   "posted": "2026-10-22",
+   "first_seen": "2026-10-22"
+  },
   {
    "key": "054b0629db8ac78d",
    "company": "Deutsche Bank",
@@ -890,16 +910,6 @@
    "url": "https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998",
    "category": "off-cycle",
    "posted": "2026-10-08",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "key": "d37f1c17efd9a27b",
-   "company": "Squarepoint",
-   "title": "Trading Infrastructure Specialist \u2013 Graduate Programme",
-   "location": "London, Montreal, Hong Kong, New York, Singapore",
-   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
-   "category": "graduate",
-   "posted": "2026-08-06",
    "first_seen": "2026-09-14"
   },
   {
