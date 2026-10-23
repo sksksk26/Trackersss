@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-23T16:32:25Z",
+ "updated": "2026-10-23T21:03:05Z",
  "count": 103,
  "jobs": [
+  {
+   "key": "3750bcb1823407e6",
+   "company": "Citi",
+   "title": "Banking  \u2013 Commercial Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2027",
+   "location": "Sao Paulo Sao Paulo Brazil",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking----Commercial-Banking--Internship--So-Paulo---Brazil--2027_261003922",
+   "category": "off-cycle",
+   "posted": "2026-10-23",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "key": "d9385fb445767645",
+   "company": "Citi",
+   "title": "Banking \u2013 Corporate Banking, Internship, S\u00e3o Paulo \u2013 Brazil, 2026",
+   "location": "Sao Paulo Sao Paulo Brazil",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Banking---Corporate-Banking--Internship--So-Paulo---Brazil--2026_261000102",
+   "category": "off-cycle",
+   "posted": "2026-10-09",
+   "first_seen": "2026-10-23"
+  },
   {
    "key": "51eecfa52b3d37c8",
    "company": "Citi",
@@ -9,6 +29,16 @@
    "location": "Dubai United Arab Emirates",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/Investment-Banking--Placement-Analyst--Dubai--UAE-2027_261004122-1",
    "category": "placement",
+   "posted": "2026-10-23",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "key": "577bccec76276a39",
+   "company": "Citi",
+   "title": "Wealth - Full Time Analyst, Dallas - USA, 2027",
+   "location": "Dallas Texas United States",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Dallas-Texas-United-States/Wealth---Full-Time-Analyst--Dallas---USA--2027_261000983",
+   "category": "graduate",
    "posted": "2026-10-23",
    "first_seen": "2026-10-23"
   },
@@ -433,16 +463,6 @@
    "first_seen": "2026-10-10"
   },
   {
-   "key": "960d8c5f1dfee4a2",
-   "company": "Citi",
-   "title": "Banking \u2013 Investment Banking, Full-Time Analyst, Mexico City - Mexico, 2027",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Investment-Banking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992614",
-   "category": "graduate",
-   "posted": "2026-09-23",
-   "first_seen": "2026-10-10"
-  },
-  {
    "key": "6afa3e489e7f5339",
    "company": "Citi",
    "title": "2025 Corporate Banking Full Time Analyst Program - Mexico",
@@ -463,31 +483,11 @@
    "first_seen": "2026-10-10"
   },
   {
-   "key": "2a6e33bfd612d94c",
-   "company": "Citi",
-   "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Monterrey \u2013 Mexico, 2027",
-   "location": "Citi Mexico EDIF. TORRE HELICE",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Citi-Mexico-EDIF-TORRE-HELICE/Banking---Corporate-Baking--Full-Time-Analyst--Monterrey---Mexico--2027_26992628",
-   "category": "graduate",
-   "posted": "2026-09-23",
-   "first_seen": "2026-10-10"
-  },
-  {
    "key": "36d6ef87ff6f0f8b",
    "company": "Citi",
    "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Bogot\u00e1 \u2013 Colombia, 2027",
    "location": "Bogota  Colombia",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Banking---Corporate-Banking--Full-Time-Analyst--Bogot---Colombia--2027_26993307",
-   "category": "graduate",
-   "posted": "2026-09-23",
-   "first_seen": "2026-10-10"
-  },
-  {
-   "key": "e9e2f27562c8df31",
-   "company": "Citi",
-   "title": "Banking \u2013 Corporate Banking, Full-Time Analyst, Mexico City \u2013 Mexico, 2027",
-   "location": "THE SUMMIT - CIUDAD DE MEXICO",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/THE-SUMMIT---CIUDAD-DE-MEXICO/Banking---Corporate-Baking--Full-Time-Analyst--Mexico-City---Mexico--2027_26992624-1",
    "category": "graduate",
    "posted": "2026-09-23",
    "first_seen": "2026-10-10"
