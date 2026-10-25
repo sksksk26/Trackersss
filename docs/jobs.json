@@ -1,7 +1,47 @@
 {
- "updated": "2026-10-25T10:49:00Z",
- "count": 103,
+ "updated": "2026-10-25T15:37:11Z",
+ "count": 107,
  "jobs": [
+  {
+   "key": "95bbda4c7f0b6ce2",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT BHU",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002",
+   "category": "graduate",
+   "posted": "2026-10-25",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "key": "d9cd5fdcee35de3e",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT Hyderabad",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002",
+   "category": "graduate",
+   "posted": "2026-10-25",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "key": "dbefda437209e13b",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT Kanpur",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002",
+   "category": "graduate",
+   "posted": "2026-10-25",
+   "first_seen": "2026-10-25"
+  },
+  {
+   "key": "f801f1d093d8bc04",
+   "company": "Point72",
+   "title": "2027 Software Engineer - Campus Graduate Program - IIT Madras",
+   "location": "India, Bengaluru",
+   "url": "https://boards.greenhouse.io/point72/jobs/8893935002?gh_jid=8893935002",
+   "category": "graduate",
+   "posted": "2026-10-25",
+   "first_seen": "2026-10-25"
+  },
   {
    "key": "5aa89a624062d514",
    "company": "Citi",
