@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-27T11:39:58Z",
- "count": 109,
+ "updated": "2026-10-27T17:32:02Z",
+ "count": 108,
  "jobs": [
+  {
+   "key": "49b04be1ddd2afa2",
+   "company": "Point72",
+   "title": "Quantitative Software Developer Intern",
+   "location": "New York",
+   "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+   "category": "off-cycle",
+   "posted": "2026-10-27",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "key": "f7dc18a5eb85d531",
+   "company": "Deutsche Bank",
+   "title": "Global Emergent Markets (GEM) FIC Sales - Intern",
+   "location": "Sao Paulo Edificio Pedro Mariz",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Global-Emergent-Markets--GEM--FIC-Sales---Intern_R0454424-1",
+   "category": "off-cycle",
+   "posted": "2026-10-27",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "key": "a431adaf2b354e9e",
+   "company": "Citi",
+   "title": "Banking, Investment Banking \u2013 Healthcare, Placement Analyst, London \u2013 United Kingdom 2027",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
+   "category": "placement",
+   "posted": "2026-10-27",
+   "first_seen": "2026-10-27"
+  },
   {
    "key": "01937c0c7806ca8b",
    "company": "Man Group",
@@ -30,16 +60,6 @@
    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Amsterdam/Wealth-Management-Intern---Relationship-Management--f-m-x-_R0413245",
    "category": "off-cycle",
    "posted": null,
-   "first_seen": "2026-10-26"
-  },
-  {
-   "key": "3e4108638daf8db8",
-   "company": "Citi",
-   "title": "Markets \u2013 Sales and Trading, Internship, S\u00e3o Paulo - Brazil, 2027",
-   "location": "Sao Paulo Sao Paulo Brazil",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Markets---Sales-and-Trading--Internship--So-Paulo---Brazil--2027_26998300",
-   "category": "off-cycle",
-   "posted": "2026-10-09",
    "first_seen": "2026-10-26"
   },
   {
@@ -303,16 +323,6 @@
    "first_seen": "2026-10-14"
   },
   {
-   "key": "465e3373de739dee",
-   "company": "Citi",
-   "title": "Functions - Finance, Summer Associate, New York - USA, 2027",
-   "location": "New York New York United States",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Functions---Finance--Summer-Associate--New-York---USA--2027_26997257",
-   "category": "summer",
-   "posted": "2026-09-29",
-   "first_seen": "2026-10-14"
-  },
-  {
    "key": "69f98ee880e5918a",
    "company": "Deutsche Bank",
    "title": "CRO - Credit Risk Local Intern",
@@ -361,16 +371,6 @@
    "category": "off-cycle",
    "posted": "2026-10-12",
    "first_seen": "2026-10-12"
-  },
-  {
-   "key": "3a6af208569eca03",
-   "company": "Deutsche Bank",
-   "title": "Investment Banking Intern  - Brazil",
-   "location": "Sao Paulo Edificio Pedro Mariz",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Sao-Paulo-Edificio-Pedro-Mariz/Investment-Banking-Intern----Brazil_R0440605",
-   "category": "off-cycle",
-   "posted": "2026-09-27",
-   "first_seen": "2026-10-10"
   },
   {
    "key": "f062f673837cbfce",
@@ -1068,16 +1068,6 @@
    "title": "Quantitative Research Intern (NLP)",
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
-   "category": "off-cycle",
-   "posted": "2026-10-22",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "key": "d3aa7a7548fa98b4",
-   "company": "Point72",
-   "title": "Quantitative Software Developer Intern",
-   "location": "New York, London, or Paris",
-   "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
    "category": "off-cycle",
    "posted": "2026-10-22",
    "first_seen": "2026-09-14"
