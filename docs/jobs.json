@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T12:11:35Z",
- "count": 109,
+ "updated": "2026-10-28T22:14:16Z",
+ "count": 108,
  "jobs": [
   {
    "key": "0cfe443b415ecddc",
@@ -851,16 +851,6 @@
    "category": "placement",
    "posted": "2026-09-28",
    "first_seen": "2026-10-10"
-  },
-  {
-   "key": "511b21705ab09ef5",
-   "company": "Marshall Wace",
-   "title": "2027 Summer Operations Intern",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/marshallwace/jobs/8879188002",
-   "category": "summer",
-   "posted": "2026-10-08",
-   "first_seen": "2026-10-08"
   },
   {
    "key": "746b38304498b0fb",
