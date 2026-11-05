@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T14:03:06Z",
- "count": 103,
+ "updated": "2026-11-05T23:18:29Z",
+ "count": 102,
  "jobs": [
   {
    "key": "f3e068c9995c222e",
@@ -19,6 +19,16 @@
    "location": "Sofia",
    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978868101",
    "category": "graduate",
+   "posted": "2026-11-05",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "key": "a0d9b89f6c8a4765",
+   "company": "Deutsche Bank",
+   "title": "O&A Swiss Coverage Intern (f/m/x)",
+   "location": "Z\u00fcrich Uraniastrasse 9",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Zrich-Uraniastrasse-9/O-A-Swiss-Coverage-Intern--f-m-x-_R0453418",
+   "category": "off-cycle",
    "posted": "2026-11-05",
    "first_seen": "2026-11-05"
   },
@@ -129,7 +139,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-27"
   },
   {
@@ -229,7 +239,7 @@
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/8875470002?gh_jid=8875470002",
    "category": "graduate",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-21"
   },
   {
@@ -269,7 +279,7 @@
    "location": "United States",
    "url": "https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002",
    "category": "summer",
-   "posted": "2026-11-04",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-19"
   },
   {
@@ -279,7 +289,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-19"
   },
   {
@@ -319,7 +329,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-14"
   },
   {
@@ -329,7 +339,7 @@
    "location": "New York, New York, United States, Stamford, Connecticut, United States",
    "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
    "category": "summer",
-   "posted": "2026-11-04",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-14"
   },
   {
@@ -339,7 +349,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-14"
   },
   {
@@ -349,7 +359,7 @@
    "location": "New York, NY",
    "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-14"
   },
   {
@@ -643,31 +653,21 @@
    "first_seen": "2026-10-10"
   },
   {
-   "key": "c354b24d614c9cb2",
-   "company": "Citi",
-   "title": "Banking, Debt Capital Markets, Placement Analyst Internship, Frankfurt - Germany 2027",
-   "location": "TAURUS",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
-   "category": "placement",
-   "posted": "2026-10-06",
-   "first_seen": "2026-10-10"
-  },
-  {
-   "key": "2eb9d50d3555f2ec",
-   "company": "Citi",
-   "title": "Banking, Investment Banking, Placement Analyst, Amsterdam \u2013 Netherlands 2027",
-   "location": "Amsterdam  Netherlands",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Amsterdam--Netherlands/Banking--Investment-Banking--Placement-Analyst--Amsterdam---Netherlands-2027_26993945",
-   "category": "placement",
-   "posted": "2026-10-06",
-   "first_seen": "2026-10-10"
-  },
-  {
    "key": "4cf9c89f215d9f27",
    "company": "Citi",
    "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
    "location": "Madrid  Spain",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+   "category": "placement",
+   "posted": "2026-10-06",
+   "first_seen": "2026-10-10"
+  },
+  {
+   "key": "c354b24d614c9cb2",
+   "company": "Citi",
+   "title": "Banking, Debt Capital Markets, Placement Analyst Internship, Frankfurt - Germany 2027",
+   "location": "TAURUS",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/TAURUS/Banking--Debt-Capital-Markets--Placement-Analyst-Internship--Frankfurt---Germany-2027_26992451",
    "category": "placement",
    "posted": "2026-10-06",
    "first_seen": "2026-10-10"
@@ -728,16 +728,6 @@
    "title": "Banking, Corporate Banking, Placement Analyst, Helsinki - Finland, 2027 - March Start",
    "location": "2 Locations",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Finland/Banking--Corporate-Banking--Placement-Analyst--Helsinki---Finland--2027---March-Start_26994916",
-   "category": "placement",
-   "posted": "2026-10-06",
-   "first_seen": "2026-10-10"
-  },
-  {
-   "key": "d3460d77279442ef",
-   "company": "Citi",
-   "title": "Banking, Investment Banking, Placement Analyst, Zurich, Switzerland 2027 - January Intake",
-   "location": "Zurich  Switzerland",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Zurich--Switzerland/Banking--Investment-Banking--Placement-Analyst--Zurich--Switzerland-2027---January-Intake_26997502",
    "category": "placement",
    "posted": "2026-10-06",
    "first_seen": "2026-10-10"
@@ -849,7 +839,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-10-02"
   },
   {
@@ -929,7 +919,7 @@
    "location": "Japan",
    "url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -939,7 +929,7 @@
    "location": "Japan",
    "url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -949,7 +939,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -959,7 +949,7 @@
    "location": "Chicago, Florida, New York, San Francisco",
    "url": "https://boards.greenhouse.io/point72/jobs/8499113002?gh_jid=8499113002",
    "category": "graduate",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -969,7 +959,7 @@
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/8538913002?gh_jid=8538913002",
    "category": "graduate",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -979,7 +969,7 @@
    "location": "London, UK",
    "url": "https://boards.greenhouse.io/point72/jobs/8500397002?gh_jid=8500397002",
    "category": "graduate",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -989,7 +979,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -999,7 +989,7 @@
    "location": "London, Paris, Hong Kong, Tokyo",
    "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -1009,7 +999,7 @@
    "location": "New York, Seattle",
    "url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -1019,7 +1009,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
    "category": "off-cycle",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   },
   {
@@ -1029,7 +1019,7 @@
    "location": "New York",
    "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
    "category": "summer",
-   "posted": "2026-10-30",
+   "posted": "2026-11-05",
    "first_seen": "2026-09-14"
   }
  ]
