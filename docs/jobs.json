@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T13:48:00Z",
- "count": 105,
+ "updated": "2026-11-06T22:45:13Z",
+ "count": 106,
  "jobs": [
   {
-   "key": "0d1e0f39c55d4d5f",
+   "key": "dcaf8379499370fd",
    "company": "Point72",
-   "title": "2027 MI Data Research Intern",
+   "title": "2027 MI Data Research & AI Intern - APAC",
    "location": "Hong Kong, Singapore, Japan",
    "url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
    "category": "off-cycle",
@@ -28,6 +28,16 @@
    "title": "Corporate Access Intern",
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002",
+   "category": "summer",
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "key": "fd3e921d0e189578",
+   "company": "Point72",
+   "title": "Long/Short Equity Support Research Intern, Hong Kong",
+   "location": "Hong Kong",
+   "url": "https://boards.greenhouse.io/point72/jobs/8899750002?gh_jid=8899750002",
    "category": "summer",
    "posted": "2026-11-06",
    "first_seen": "2026-11-06"
