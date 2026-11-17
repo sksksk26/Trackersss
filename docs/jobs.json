@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-17T01:37:45Z",
- "count": 37,
+ "updated": "2026-11-17T15:32:53Z",
+ "count": 38,
  "jobs": [
+  {
+   "key": "2b6a91ab3c0ea7d5",
+   "company": "Point72",
+   "title": "2027 Asia Summer Internship - Investment Services",
+   "location": "Singapore, Hong Kong",
+   "url": "https://boards.greenhouse.io/point72/jobs/8931689002?gh_jid=8931689002",
+   "category": "summer",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17"
+  },
   {
    "key": "93ece943a2f5f130",
    "company": "Point72",
@@ -19,7 +29,7 @@
    "location": "Singapore",
    "url": "https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002",
    "category": "off-cycle",
-   "posted": "2026-11-12",
+   "posted": "2026-11-17",
    "first_seen": "2026-11-10"
   },
   {
@@ -29,7 +39,7 @@
    "location": "Hong Kong, Singapore, Japan",
    "url": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
    "category": "off-cycle",
-   "posted": "2026-11-09",
+   "posted": "2026-11-17",
    "first_seen": "2026-11-06"
   },
   {
@@ -49,7 +59,7 @@
    "location": "Hong Kong",
    "url": "https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002",
    "category": "summer",
-   "posted": "2026-11-09",
+   "posted": "2026-11-17",
    "first_seen": "2026-11-06"
   },
   {
